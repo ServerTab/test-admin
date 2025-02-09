@@ -54,7 +54,7 @@ class AdminBot(commands.Bot):
             intents=discord.Intents.all(),
             activity=discord.Activity(
                 type=discord.ActivityType.watching,
-                name="⚡ Server Protection"
+                name="Cupid Cafe ❤️"
             ),
             help_command=None
         )
